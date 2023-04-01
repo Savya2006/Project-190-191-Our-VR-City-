@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Our VR City</title>
+    <meta name="description" content="Hello, WebVR! • A-Frame" />
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <!-- Loading Assets  -->
+      <a-a-assets>
+        <a-asset-item id="supermarket" src="assets/lowpoly_supermarket/scene.gltf"></a-asset-item>
+        <a-asset-item id="barber" src="assets/barber_shop_-_stylised/scene.gltf"></a-asset-item>
+        <a-asset-item id="cafe" src="assets/low_poly_cafe/scene.gltf"></a-asset-item>
+        <a-asset-item id="cafe-sign" src="assets/cafe_sign/scene.gltf"></a-asset-item>
+        <a-asset-item id="people" src="assets/low_poly_people_free_sample_pack/scene.gltf"></a-asset-item>
+        <a-asset-item id="B1" src="assets/game_ready_city_buildings/scene.gltf"></a-asset-item>
+        <a-asset-item id="B2" src="assets/realistic_chicago_buildings/scene.gltf"></a-asset-item>
+        <a-asset-item id="birds" src="assets/birds/scene.gltf"></a-asset-item>
+        <a-asset-item id="school" src="assets/musik_school/scene.gltf"></a-asset-item>
+        <a-asset-item id="bus" src="assets/school_bus_conversion/scene.gltf"></a-asset-item>
+        <a-asset-item id="windmill" src="assets/the_mill/scene.gltf"></a-asset-item>
+        <a-asset-item id="JCB" src="assets/jcb_backhoe_loader_3cx_tractor/scene.gltf"></a-asset-item>
+        <a-asset-item id="warnings" src="assets/construction_signs_set/scene.gltf"></a-asset-item>
+        <a-asset-item id="pond" src="assets/pond/scene.gltf"></a-asset-item>
+        <a-asset-item id="car" src="assets/mazda_rx8/scene.gltf"></a-asset-item>
+        <a-asset-item id="car2" src="assets/cartoon_car/scene.gltf"></a-asset-item>
+      
+      </a-a-assets>
+      <a-sky color="white" src="BG1.jpg">
+        <a-cylinder position="0 0 0" height="0.5" radius="20" color="black" ></a-cylinder>
+
+        <a-entity scale="0.5 0.6 0.5" gltf-model="#supermarket" position="0 0.2 -1 " rotation="0 20 0" > </a-entity>
+
+        <a-entity scale="0.9 0.55 0.5" gltf-model="#barber" position="-6 0 -6 " rotation="0 20 0" > </a-entity>
+
+        <a-entity scale="0.05 0.05 0.05" gltf-model="#cafe" position="-7 0.3 3 " rotation="0 20 0" > </a-entity>
+        <a-entity scale="0.0015 0.0015 0.0015" gltf-model="#cafe-sign" position="6 0.3 2 " rotation="0 300 20" > </a-entity>
+
+        <a-entity scale="0.6 0.6 0.6" gltf-model="#people" position="-5 0.3 6  " rotation="0 0 0" > </a-entity>
+
+        <a-entity scale="3 3 3" gltf-model="#B1" position="-12 1.5 -3" rotation="0 90 0"  > </a-entity>
+        <a-entity scale="0.15 0.15 0.15" gltf-model="#B2" position="-12 -1 -10" rotation="0 0 0"  > </a-entity>
+
+        <a-entity scale="2 2 2" gltf-model="#birds" position="-10 13 -1 " rotation="-20 90 0" > </a-entity>
+        <a-entity scale="2 2 2" gltf-model="#birds" position="-5 13 -3 " rotation="-20 90 0" > </a-entity>
+
+        <a-entity scale="0.002 0.0025 0.002" gltf-model="#school" position="11 0.5 9 " rotation="0 215 0" > </a-entity>
+        <a-entity scale="0.3 0.3 0.3" gltf-model="#bus" position="10 0.5 15 " rotation="0 50 0" > </a-entity>
+        <a-entity scale="0.3 0.3 0.3" gltf-model="#bus" position="5 0.5 10 " rotation="0 180 0" > </a-entity>
+
+        <a-entity scale="0.3 0.3 0.3" gltf-model="#windmill" position="-15 0 7 " rotation="0 250 0" > </a-entity>
+        <a-entity scale="0.3 0.3 0.3" gltf-model="#windmill" position="-15 0 10 " rotation="0 250 0" > </a-entity>
+
+        <a-entity scale="0.008 0.008 0.008" gltf-model="#JCB" position="10 0 -5 " rotation="0 90 0" > </a-entity>
+        <a-entity scale="0.1 0.1 0.1" gltf-model="#warnings" position="7 0 0 " rotation="0 250 0" > </a-entity>
+
+        <a-entity scale="4 4 4" gltf-model="#pond" position="-10 0.3 15 " rotation="0 -30 0" > </a-entity>
+        <a-entity scale="3 3 3" gltf-model="#pond" position="-11 0.3 13 " rotation="0 -50 0" > </a-entity>
+
+        <a-entity scale="0.006 0.006 0.006" gltf-model="#car" position="0 0.3 15" rotation="0 -20 0" > </a-entity>
+        <a-entity scale="0.15 0.15 0.15" gltf-model="#car2" position="-2 0.3 16" rotation="0 30 0" > </a-entity>
+
+
+      </a-sky>
+
+
+      <!-- CAMERA -->
+      <a-camera look-controls-enabled wasd-controls-enabled position="0 2 25"> </a-camera>
+
+
+    </a-scene>
+  </body>
+</html>

@@ -1,0 +1,548 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.5956198573112488,
+        6.969959735870361,
+        4.973424911499023
+      ],
+      "min": [
+        -0.7655885815620422,
+        -2.3482892513275146,
+        -19.032779693603516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8244,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5496,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10992,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16488,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21984,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27480,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32976,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 38472,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.975989043712616,
+        0.999595582485199
+      ],
+      "min": [
+        0.00040439682197757065,
+        0.00040439682197757065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1401,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Jane Fancy (https://sketchfab.com/janefancy)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cafe-sign-1353cd301c0d49269d012e08db0b8a63",
+      "title": "Cafe sign"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5604,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43968,
+      "byteOffset": 5604,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16488,
+      "byteOffset": 49572,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10992,
+      "byteOffset": 66060,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 77052,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Default_baseColor.png"
+    },
+    {
+      "uri": "textures/Default_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Default_emissive.png"
+    },
+    {
+      "uri": "textures/Default_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Default",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "LP_Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7,
+            "TEXCOORD_5": 8,
+            "TEXCOORD_6": 9,
+            "TEXCOORD_7": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "6711cd7d80a04577be5dc519463b6a4d.fbx"
+    },
+    {
+      "children": [
+        3,
+        10
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "matrix": [
+        0.27563748381673425,
+        0.0,
+        -0.9612616592349762,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.9612616592349762,
+        0.0,
+        0.27563748381673425,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sky"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        -0.9253883697577032,
+        0.3334877915786482,
+        -0.18013918455950337,
+        0.0,
+        0.37483223815702926,
+        0.8757099323219338,
+        -0.30435811365141896,
+        0.0,
+        0.05624972325629242,
+        -0.3491699754916646,
+        -0.9353698592994947,
+        0.0,
+        915.6585693359375,
+        542.6829223632813,
+        -147.51718139648438,
+        1.0
+      ],
+      "name": "Sky Light 1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_5"
+    },
+    {
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.668893906545288,
+        0.022862184673711847,
+        0.7430084791988726,
+        0.0,
+        0.18909182308375674,
+        0.9614105387900606,
+        -0.1998124081752215,
+        0.0,
+        -0.7189079299068345,
+        0.2741515027971241,
+        0.6387617970497116,
+        0.0,
+        -1847.89990234375,
+        320.7224426269531,
+        727.525390625,
+        1.0
+      ],
+      "name": "Sky Light 2"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_8"
+    },
+    {
+      "name": "Object_9"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "lp new"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.220446049250313e-14,
+        -100.0,
+        0.0,
+        0.0,
+        100.0,
+        -2.220446049250313e-14,
+        0.0,
+        26.55885887145996,
+        1903.2779541015625,
+        325.3265686035156,
+        1.0
+      ],
+      "name": "LP"
+    },
+    {
+      "mesh": 0,
+      "name": "LP_Default_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

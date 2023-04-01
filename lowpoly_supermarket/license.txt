@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Supermarket
+* source:	https://sketchfab.com/3d-models/lowpoly-supermarket-80f32e7d620147dda44445f79bba4281
+* author:	Klieg3D (https://sketchfab.com/Klieg3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Supermarket" (https://sketchfab.com/3d-models/lowpoly-supermarket-80f32e7d620147dda44445f79bba4281) by Klieg3D (https://sketchfab.com/Klieg3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
